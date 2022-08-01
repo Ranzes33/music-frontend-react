@@ -1,5 +1,5 @@
 # MUSIC APP
-#### Primero proyecto propio en el que usé mis conocimientos de frontend y backend
+#### Primer proyecto propio en el que usé mis conocimientos de frontend y backend
 ### BACKEND:
 #### - Spring boot
 #### - Editor: Intellij IDEA
