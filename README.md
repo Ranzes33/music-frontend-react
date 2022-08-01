@@ -1,14 +1,19 @@
 # MUSIC APP
-### Primero proyecto propio en el que usé mis conocimientos de frontend y backend
-## BACKEND:
-### -Spring boot
-### -Base de datos en postgreSQL
-### -JPA
-### -Rest API
-## FRONTEND:
+#### Primero proyecto propio en el que usé mis conocimientos de frontend y backend
+### BACKEND:
+#### - Spring boot
+#### - Editor: Intellij IDEA
+#### - Base de datos en postgreSQL
+#### - Java 17
+#### - JPA
+#### - Rest API
+#### - Deployment: Heroku
+### FRONTEND:
 #### - React Vite
-#### - React Bootstrap
+#### - Editor: Visual Code
 #### - Redux
 #### - Router Dom
 #### - Axios
-## Visita mi pagina en Netlify: https://music-frontend-react.netlify.app/
+#### - React Bootstrap
+#### - Deployment: Heroku
+### Visita mi app web en Netlify: https://music-frontend-react.netlify.app/
